@@ -1,4 +1,4 @@
-SIMPLE HTTP SERVER (implementiran samo GET metoda)
+SIMPLE HTTP SERVER (implementirana samo GET metoda)
 
 KAKO KOMPAJLIRATI PROGRAM : 
 
