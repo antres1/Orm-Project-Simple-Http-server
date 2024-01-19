@@ -1,3 +1,5 @@
+SIMPLE HTTP SERVER (implementiran samo GET metoda)
+
 KAKO KOMPAJLIRATI PROGRAM : 
 
 make server-clean       // used to make and clean 
